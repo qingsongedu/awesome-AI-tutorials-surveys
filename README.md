@@ -21,7 +21,9 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 
 ## Table of Contents
 - [AI Tutorials](#AI-Tutorials)
-  * [Tutorials 2022](#Tutorials-2022), [Tutorials 2021](#Tutorials-2021), [Tutorials 2020](#Tutorials-2020)
+  * [Tutorials 2022](#Tutorials-2022)
+  * [Tutorials 2021](#Tutorials-2021)
+  * [Tutorials 2020](#Tutorials-2020)
  
 - [AI Surveys](#AI-Surveys)
   * [Transformer and Attention](#Transformer-and-Attention)
