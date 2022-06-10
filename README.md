@@ -1,4 +1,4 @@
-# Tutorials and Surveys of Various AI Areas in Top CS Conferences and Journals
+# Tutorials and Surveys in Top AI Conferences and Journals
 
 A professionally curated list of tutorials and surveys in various AI areas, including Deep Learning, Machine Learning, Data Mining, Computer Vision (CV), Natural Language Processing (NLP), Speech, etc., at the **Top AI Conferences and Journals**, which is **updated ASAP (the earliest time)** once the accepted tutorials and surveys are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in various AI areas.
 
