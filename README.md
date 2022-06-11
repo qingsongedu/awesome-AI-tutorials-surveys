@@ -46,13 +46,13 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 ### Tutorials 2022
 * Facilitating a smoother transition to Renewable Energy with AI (AI4Renewables), *ICLR* 2022 Social. [\[Link\]](https://www.ai4renewables.org/) [\[slides\]](https://iclr.cc/media/iclr-2022/Slides/8733_OpISyMy.pdf) 
 * Optimization in ML and DL - A discussion on theory and practice, *ICLR* 2022 Social. [\[slides\]](https://iclr.cc/media/iclr-2022/Slides/8739_DhSLTHw.pdf)
-* Beyond Convolutional Neural Networks, *CVPR* 2022. [\[Link TBD\]]()
-* Evaluating Models Beyond the Textbook: Out-of-distribution and Without Labels, *CVPR* 2022. [\[Link TBD\]]()
-* Sparsity Learning in Neural Networks and Robust Statistical Analysis, *CVPR* 2022. [\[Link TBD\]]()
-* Representation Learning and Algorithmic Fairness, *CVPR* 2022. [\[Link TBD\]]()
+* Beyond Convolutional Neural Networks, *CVPR* 2022. [\[Link\]](https://sites.google.com/view/cvpr-2022-beyond-cnn)
+* Evaluating Models Beyond the Textbook: Out-of-distribution and Without Labels, *CVPR* 2022. [\[Link\]](https://sites.google.com/view/evalmodel/home)
+* Sparsity Learning in Neural Networks and Robust Statistical Analysis, *CVPR* 2022. [\[Link\]](https://sparse-learning.github.io/)
+* Denoising Diffusion-based Generative Modeling: Foundations and Applications, *CVPR* 2022. [\[Link\]](https://cvpr2022-tutorial-diffusion-models.github.io/)
 * On Explainable AI: From Theory to Motivation, Industrial Applications, XAI Coding & Engineering Practices, *AAAI* 2022. [\[Link\]](https://xaitutorial2022.github.io/)
-* Bayesian Optimization: From Foundations to Advanced Topics, *AAAI* 2022. [\[Link\]](https://bayesopt-tutorial.github.io/syllabus/)
 * Deep Learning on Graphs for Natural Language Processing, *AAAI* 2022. [\[Link\]](https://dlg4nlp.github.io/tutorial_Deep%20Learning%20on%20Graphs%20for%20Natural%20Language%20Processing%20AAAI%202022.html)
+* Bayesian Optimization: From Foundations to Advanced Topics, *AAAI* 2022. [\[Link\]](https://bayesopt-tutorial.github.io/syllabus/)
 
 
 ### Tutorials 2021
@@ -85,6 +85,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Learning Representations via Graph-structured Networks, *CVPR* 2021. [\[Link\]](https://xiaolonw.github.io/graphnnv3/)
 * Reviewing the Review Process, *ICCV* 2021. [\[Link\]](https://sites.google.com/view/reviewing-the-review-process/)
 * Meta Learning and Its Applications to Natural Language Processing, *ACL* 2021. [\[Link\]](https://ai.ntu.edu.tw/mlss2021/wp-content/uploads/2021/08/0812-Thang-Vu-Shang-Wen-Li.pdf)
+* Deep generative modeling of sequential data with dynamical variational autoencoders, *ICASSP* 2021. [\[Link\]](https://dynamicalvae.github.io/)
 
 
 <!-- , *ICML* 2020. [\[slides\]]() [\[video\]]() -->
@@ -101,10 +102,6 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Recent Advances in High-Dimensional Robust Statistics, *ICML* 2020. [\[Link\]](http://www.iliasdiakonikolas.org/icml-robust-tutorial.html)
 * Submodular Optimization: From Discrete to Continuous and Back, *ICML* 2020. [\[Link\]](http://iid.yale.edu/icml/icml-20.md/)
 * Deep Learning for Anomaly Detection, in *KDD* 2020. [\[Link\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=67) 
-
-
-
-
 
 
 <!--    [\[paper\]]()      [\[official code\]]()   --> 
