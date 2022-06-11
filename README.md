@@ -6,7 +6,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-tutorials-surveys)](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-tutorials-surveys)
 <!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/awesome-AI-tutorials-surveys) -->
 
-A professionally curated list of tutorials and surveys in various AI areas, including Deep Learning, Machine Learning, Data Mining, Computer Vision (CV), Natural Language Processing (NLP), Speech, etc., at the **Top AI Conferences and Journals**, which is **updated ASAP (the earliest time)** once the accepted tutorials and surveys are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in various AI areas.
+A professionally curated list of tutorials (keynote, invited talk, etc.) and surveys in various AI areas, including Deep Learning, Machine Learning, Data Mining, Computer Vision (CV), Natural Language Processing (NLP), Speech, etc., at the **Top AI Conferences and Journals**, which is **updated ASAP (the earliest time)** once the accepted tutorials and surveys are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in various AI areas.
 
 The top conferences including:
 - Machine Learning: NeurIPS, ICML, ICLR
@@ -30,6 +30,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [Tutorials 2022](#Tutorials-2022)
   * [Tutorials 2021](#Tutorials-2021)
   * [Tutorials 2020](#Tutorials-2020)
+  * [Tutorials 201X](#Tutorials-201X)
  
 - [AI Surveys](#AI-Surveys)
   * [Transformer and Attention](#Transformer-and-Attention)
@@ -101,7 +102,17 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Representation Learning Without Labels, *ICML* 2020. [\[slides\]](https://danilorezende.com/wp-content/uploads/2020/07/ICML-2020-Tutorial-Slides.pdf) [\[video\]](https://www.youtube.com/watch?v=_9rGTWfpo_4)
 * Recent Advances in High-Dimensional Robust Statistics, *ICML* 2020. [\[Link\]](http://www.iliasdiakonikolas.org/icml-robust-tutorial.html)
 * Submodular Optimization: From Discrete to Continuous and Back, *ICML* 2020. [\[Link\]](http://iid.yale.edu/icml/icml-20.md/)
-* Deep Learning for Anomaly Detection, in *KDD* 2020. [\[Link\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=67) 
+* Deep Learning for Anomaly Detection, in *KDD* 2020. [\[Link\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=67)
+* Learning with Small Data, in *KDD* 2020. [\[Link\]](https://sites.psu.edu/kdd20tutorial/2020/06/01/kdd-2020-tutorial-learning-with-small-data/)
+
+
+### Tutorials 201X
+* Adversarial Machine Learning, ICLR 2019 Keynote. [slides](https://www.iangoodfellow.com/slides/2019-05-07.pdf)
+* Introduction to GANs, in *CVPR* 2018. [slides](https://www.iangoodfellow.com/slides/2018-06-22-gan_tutorial.pdf)
+
+
+ 
+
 
 
 <!--    [\[paper\]]()      [\[official code\]]()   --> 
@@ -153,8 +164,16 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Others: awesome-automl-papers. [\[repo\]](https://github.com/hibayesian/awesome-automl-papers)
 
 <!-- GAN, VAE, NF -->
-### Deep Generative Models
-
+### Deep Generative Models 
+* NIPS 2016 Tutorial: Generative Adversarial Networks, arXiv'17. [\[paper\]](https://arxiv.org/pdf/1701.00160.pdf)
+* Generative adversarial networks: An overview, SPM'18. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/8253599)
+* A review on generative adversarial networks: Algorithms, theory, and applications, TKDE'21. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9625798)
+* A survey on generative adversarial networks: Variants, applications, and training, CSUR'22. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3463475)
+* An Introduction to Variational Autoencoders, now'19. [\[paper\]](https://arxiv.org/abs/1906.02691)
+* Dynamical Variational Autoencoders: A Comprehensive Review, now'21. [\[paper\]](https://arxiv.org/abs/2008.12595)
+* Advances in variational inference, TPAMI'19. [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8588399)
+* Normalizing flows: An introduction and review of current methods, TPAMI'20. [\[paper\]](https://arxiv.org/abs/1908.09257)
+* Normalizing Flows for Probabilistic Modeling and Inference, JMLR'21. [\[paper\]](https://www.jmlr.org/papers/volume22/19-1028/19-1028.pdf)
 
 
 
@@ -184,5 +203,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * A survey on transfer learning, TKDE'09. [\[paper\]](http://home.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
 * A Comprehensive Survey on Transfer Learning, PIEEE'21. [\[paper\]](https://arxiv.org/abs/1911.02685)
 * A survey on multi-task learning, TKDE'21. [\[paper\]](https://arxiv.org/abs/1707.08114)
+* Generalizing from a few examples: A survey on few-shot learning, CSUR'20. [\[paper\]](https://arxiv.org/abs/1904.05046)
+* Bayesian statistics and modelling, Nature Reviews Methods Primers'21. [\[paper\]](https://osf.io/wdtmc/download)
 * Meta-learning in neural networks: A survey, arXiv'21. [\[paper\]](https://arxiv.org/abs/2004.05439)
 * Learning to optimize: A primer and a benchmark, arXiv'21. [\[paper\]](https://arxiv.org/abs/2103.12828)
