@@ -40,6 +40,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [XAI](#XAI)
   * [AutoML](#AutoML)
   * [Deep Generative Models](#Deep-Generative-Models)
+  * [N-Shot Learning](#N-Shot-Learning)
   * [Anomaly Detection and OOD](#Anomaly-Detection-and-OOD)
   * [Others](#Others)
 
@@ -175,7 +176,12 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Normalizing flows: An introduction and review of current methods, TPAMI'20. [\[paper\]](https://arxiv.org/abs/1908.09257)
 * Normalizing Flows for Probabilistic Modeling and Inference, JMLR'21. [\[paper\]](https://www.jmlr.org/papers/volume22/19-1028/19-1028.pdf)
 
-
+### N-Shot Learning
+* A survey of zero-shot learning: Settings, methods, and applications, in *TIST* 2019. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3293318)
+* Generalizing from a few examples: A survey on few-shot learning, in *CSUR* 2020. [\[paper\]](https://arxiv.org/abs/1904.05046) [\[Link\]](https://github.com/tata1661/FSL-Mate) 
+* What Can Knowledge Bring to Machine Learning?—A Survey of Low-shot Learning for Structured Data, in *TIST* 2022. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3510030)
+* A Survey of Few-Shot Learning: An Effective Method for Intrusion Detection, in *SCN* 2022. [\[paper\]](https://www.hindawi.com/journals/scn/2021/4259629/)
+* Few-Shot Learning on Graphs: A Survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2203.09308)
 
 ### Anomaly Detection and OOD
 * A unifying review of deep and shallow anomaly detection, PIEEE'21. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9347460) 
@@ -185,7 +191,6 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Anomaly detection in dynamic networks: a survey, WICS'15. [\[paper\]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347) 
 * Anomaly detection: A survey, CSUR'09. [\[paper\]](https://www.profsandhu.com/cs5323_s17/a15-chandola.pdf) 
 * A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges, arXiv'21. [\[paper\]](https://arxiv.org/abs/2110.14051)
-
 
 <!-- [\[paper\]]() -->
 ### Others
