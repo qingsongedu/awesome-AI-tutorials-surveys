@@ -209,7 +209,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * A survey on transfer learning, TKDE'09. [\[paper\]](http://home.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf)
 * A Comprehensive Survey on Transfer Learning, PIEEE'21. [\[paper\]](https://arxiv.org/abs/1911.02685)
 * A survey on multi-task learning, TKDE'21. [\[paper\]](https://arxiv.org/abs/1707.08114)
-* Generalizing from a few examples: A survey on few-shot learning, CSUR'20. [\[paper\]](https://arxiv.org/abs/1904.05046)
 * Bayesian statistics and modelling, Nature Reviews Methods Primers'21. [\[paper\]](https://osf.io/wdtmc/download)
 * Meta-learning in neural networks: A survey, arXiv'21. [\[paper\]](https://arxiv.org/abs/2004.05439)
+* Deep Long-Tailed Learning: A Survey, arXiv'21. [\[paper\]](https://arxiv.org/abs/2110.04596）[\[link\]](https://github.com/Vanint/Awesome-LongTailed-Learning）   
 * Learning to optimize: A primer and a benchmark, arXiv'21. [\[paper\]](https://arxiv.org/abs/2103.12828)
