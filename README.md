@@ -33,6 +33,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [Tutorials 201X](#Tutorials-201X)
  
 - [AI Surveys](#AI-Surveys)
+  * [General](#General)
   * [Transformer and Attention](#Transformer-and-Attention)
   * [Self-Supervised Learning](#Self-Supervised-Learning)
   * [Graph Neural Networks](#Graph-Neural-Networks)
@@ -119,6 +120,11 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 <!--    [\[paper\]]()      [\[official code\]]()   --> 
 ## AI Surveys
 
+### General
+* Deep learning, in *Nature* 2015. [\[paper\]](https://www.nature.com/articles/nature14539)
+* Deep learning in neural networks: An overview, in *Neural networks* 2015. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0893608014002135)
+
+
 ### Transformer and Attention
 * A survey on visual transformer, in *IEEE TPAMI* 2022. [\[paper\]](https://arxiv.org/abs/2012.12556)
 * Transformers in vision: A survey, in *ACM Computing Surveys* 2021. [\[paper\]](https://arxiv.org/abs/2101.01169)
@@ -203,6 +209,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * A review of domain adaptation without target labels, TPAMI'19. [\[paper\]](https://arxiv.org/abs/1901.05335)
 * Online learning: A comprehensive survey, Neucom'21. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006706)
 * Classification in the presence of label noise: a survey, TNNLS'13. [\[paper\]](https://romisatriawahono.net/lecture/rm/survey/machine%20learning/Frenay%20-%20Classification%20in%20the%20Presence%20of%20Label%20Noise%20-%202014.pdf)
+* Learning from Noisy Labels with Deep Neural Networks: A Survey, TNNLS'22. [\[paper\]](https://arxiv.org/abs/2007.08199) [\[link\]](https://github.com/songhwanjun/Awesome-Noisy-Labels)
 * Learning from imbalanced data, TKDE'09. [\[paper\]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.728.3478&rep=rep1&type=pdf)
 * A Systematic Review on Imbalanced Data Challenges in Machine Learning: Applications and Solutions, CSUR'20. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3343440)
 * Imbalance problems in object detection: A review, TPAMI'20. [\[paper\]](https://arxiv.org/abs/1909.00169)
