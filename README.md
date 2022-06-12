@@ -1,4 +1,4 @@
-# Tutorials and Surveys in Top AI Conferences and Journals
+# Recent AI Advances: Tutorials and Surveys in Top AI Conferences and Journals
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
@@ -6,7 +6,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-tutorials-surveys)](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-tutorials-surveys)
 <!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/awesome-AI-tutorials-surveys) -->
 
-A professionally curated list of tutorials (keynote, invited talk, etc.) and surveys in various AI areas, including Deep Learning, Machine Learning, Data Mining, Computer Vision (CV), Natural Language Processing (NLP), Speech, etc., at the **Top AI Conferences and Journals**, which is **updated ASAP (the earliest time)** once the accepted tutorials and surveys are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in various AI areas.
+A professionally curated list of tutorials (keynote, invited talk, etc.) and surveys of recent AI advances, including Deep Learning, Machine Learning, Data Mining, Computer Vision (CV), Natural Language Processing (NLP), Speech, etc., at the **Top AI Conferences and Journals**, which is **updated ASAP (the earliest time)** once the accepted tutorials and surveys are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in various AI areas.
 
 The top conferences including:
 - Machine Learning: NeurIPS, ICML, ICLR
