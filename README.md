@@ -182,6 +182,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * What Can Knowledge Bring to Machine Learning?—A Survey of Low-shot Learning for Structured Data, in *TIST* 2022. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3510030)
 * A Survey of Few-Shot Learning: An Effective Method for Intrusion Detection, in *SCN* 2022. [\[paper\]](https://www.hindawi.com/journals/scn/2021/4259629/)
 * Few-Shot Learning on Graphs: A Survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2203.09308)
+* A Comprehensive Survey of Few-shot Learning: Evolution, Applications, Challenges, and Opportunities, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2205.06743)
 
 ### Anomaly Detection and OOD
 * A unifying review of deep and shallow anomaly detection, PIEEE'21. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9347460) 
