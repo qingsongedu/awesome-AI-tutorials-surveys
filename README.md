@@ -199,6 +199,9 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Anomaly detection: A survey, CSUR'09. [\[paper\]](https://www.profsandhu.com/cs5323_s17/a15-chandola.pdf) 
 * A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges, arXiv'21. [\[paper\]](https://arxiv.org/abs/2110.14051)
 
+### RL
+
+
 <!-- [\[paper\]]() -->
 ### Others
 * A continual learning survey: Defying forgetting in classification tasks, in *IEEE TPAMI* 2021. [\[paper\]](https://arxiv.org/abs/1909.08383)
@@ -210,6 +213,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Online learning: A comprehensive survey, Neucom'21. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006706)
 * Classification in the presence of label noise: a survey, TNNLS'13. [\[paper\]](https://romisatriawahono.net/lecture/rm/survey/machine%20learning/Frenay%20-%20Classification%20in%20the%20Presence%20of%20Label%20Noise%20-%202014.pdf)
 * Learning from Noisy Labels with Deep Neural Networks: A Survey, TNNLS'22. [\[paper\]](https://arxiv.org/abs/2007.08199) [\[link\]](https://github.com/songhwanjun/Awesome-Noisy-Labels)
+* A Survey of Label-noise Representation Learning: Past, Present and Future, arXiv'21. [\[paper\]](https://arxiv.org/abs/2011.04406) [\[link\]](https://github.com/bhanML/label-noise-papers)
 * Learning from imbalanced data, TKDE'09. [\[paper\]](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.728.3478&rep=rep1&type=pdf)
 * A Systematic Review on Imbalanced Data Challenges in Machine Learning: Applications and Solutions, CSUR'20. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3343440)
 * Imbalance problems in object detection: A review, TPAMI'20. [\[paper\]](https://arxiv.org/abs/1909.00169)
