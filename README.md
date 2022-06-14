@@ -108,16 +108,15 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Representation Learning Without Labels, *ICML* 2020. [\[slides\]](https://danilorezende.com/wp-content/uploads/2020/07/ICML-2020-Tutorial-Slides.pdf) [\[video\]](https://www.youtube.com/watch?v=_9rGTWfpo_4)
 * Recent Advances in High-Dimensional Robust Statistics, *ICML* 2020. [\[Link\]](http://www.iliasdiakonikolas.org/icml-robust-tutorial.html)
 * Submodular Optimization: From Discrete to Continuous and Back, *ICML* 2020. [\[Link\]](http://iid.yale.edu/icml/icml-20.md/)
-* Deep Learning for Anomaly Detection, in *KDD* 2020. [\[Link\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=67)
+* Deep Learning for Anomaly Detection, in *KDD* 2020. [\[Link\]](https://sites.google.com/view/kdd2020deepeye/home) [\[video\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=67)
 * Learning with Small Data, in *KDD* 2020. [\[Link\]](https://sites.psu.edu/kdd20tutorial/2020/06/01/kdd-2020-tutorial-learning-with-small-data/)
 
 
 ### Tutorials 201X
-* Adversarial Machine Learning, ICLR 2019 Keynote. [slides](https://www.iangoodfellow.com/slides/2019-05-07.pdf)
-* Introduction to GANs, in *CVPR* 2018. [slides](https://www.iangoodfellow.com/slides/2018-06-22-gan_tutorial.pdf)
+* Adversarial Machine Learning, ICLR 2019 Keynote. [\[slides\]](https://www.iangoodfellow.com/slides/2019-05-07.pdf)
+* Introduction to GANs, CVPR 2018. [\[slides\]](https://www.iangoodfellow.com/slides/2018-06-22-gan_tutorial.pdf)
+* Which Anomaly Detector should I use,	ICDM 2018. [\[slides\]](https://federation.edu.au/__data/assets/pdf_file/0011/443666/ICDM2018-Tutorial-Final.pdf)
 
-
- 
 
 
 
@@ -202,6 +201,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 * Anomaly detection in dynamic networks: a survey, WICS'15. [\[paper\]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347) 
 * Anomaly detection: A survey, CSUR'09. [\[paper\]](https://www.profsandhu.com/cs5323_s17/a15-chandola.pdf) 
 * A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges, arXiv'21. [\[paper\]](https://arxiv.org/abs/2110.14051)
+* Self-Supervised Anomaly Detection: A Survey and Outlook, arXiv'21. [\[paper\]](https://arxiv.org/abs/2205.05173)
 
 ###  Label-noise Learning
 * A Survey of Label-noise Representation Learning: Past, Present and Future, arXiv'21. [\[paper\]](https://arxiv.org/abs/2011.04406) [\[link\]](https://github.com/bhanML/label-noise-papers)
