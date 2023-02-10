@@ -27,6 +27,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 
 ## Table of Contents
 - [AI Tutorials](#AI-Tutorials)
+  * [Tutorials 2023](#Tutorials-2022)
   * [Tutorials 2022](#Tutorials-2022)
   * [Tutorials 2021](#Tutorials-2021)
   * [Tutorials 2020](#Tutorials-2020)
@@ -50,6 +51,12 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [Others](#Others)
 
 ## AI Tutorials
+### Tutorials 2023
+* Everything You Need to Know about Transformers: Architectures, Optimization, Applications, and Interpretation, *AAAI* 2023. [\[Link\]](https://transformer-tutorial.github.io/aaai2023/)
+* On Explainable AI: From Theory to Motivation, Industrial Applications, XAI Coding &amp; Engineering Practices, *AAAI* 2023. [\[Link\]](https://xaitutorial2023.github.io/)
+
+
+
 ### Tutorials 2022
 * Causality and deep learning: synergies, challenges& opportunities for research, *ICML* 2022. [\[Link TBD\]]()
 * Bridging Learning and Decision Making, *ICML* 2022. [\[Link TBD\]]()
