@@ -32,7 +32,7 @@ If you found any missed resources (paper/code) or errors, please feel free to op
   * [Tutorials 2021](#Tutorials-2021)
   * [Tutorials 2020](#Tutorials-2020)
   * [Tutorials 201X](#Tutorials-201X)
- 
+
 - [AI Surveys](#AI-Surveys)
   * [General](#General)
   * [Transformer and Attention](#Transformer-and-Attention)
@@ -58,8 +58,8 @@ If you found any missed resources (paper/code) or errors, please feel free to op
 
 
 ### Tutorials 2022
-* Causality and deep learning: synergies, challenges& opportunities for research, *ICML* 2022. [\[Link TBD\]]()
-* Bridging Learning and Decision Making, *ICML* 2022. [\[Link TBD\]]()
+* Causality and deep learning: synergies, challenges& opportunities for research, *ICML* 2022. [\[Link]](https://sites.google.com/view/causalityanddeeplearning/start)
+* Bridging Learning and Decision Making, *ICML* 2022. [\[Link]](https://dylanfoster.net/bldm.html)
 * Facilitating a smoother transition to Renewable Energy with AI (AI4Renewables), *ICLR* 2022 Social. [\[Link\]](https://www.ai4renewables.org/) [\[slides\]](https://iclr.cc/media/iclr-2022/Slides/8733_OpISyMy.pdf) 
 * Optimization in ML and DL - A discussion on theory and practice, *ICLR* 2022 Social. [\[slides\]](https://iclr.cc/media/iclr-2022/Slides/8739_DhSLTHw.pdf)
 * Beyond Convolutional Neural Networks, *CVPR* 2022. [\[Link\]](https://sites.google.com/view/cvpr-2022-beyond-cnn)
